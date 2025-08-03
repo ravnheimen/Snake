@@ -139,7 +139,7 @@ class Program
             switch (state)
             {
                 case State.TITLE://---------Title Screen-----------------
-                    Raylib.DrawText("TITLE SCREEN", 20, 20, 40, titleColor);
+                    Raylib.DrawText("SNAKE", 500, 100, 100, titleColor);
 
                     Raylib.DrawText($"High Score:{highScore} ", screenX / 2 - 300, screenY / 2 - 100, 100, titleColor);
 

@@ -42,3 +42,4 @@ C:\Users\morte\Documents\GitHub\Snake\obj\Debug\net9.0\refint\Snake.dll
 C:\Users\morte\Documents\GitHub\Snake\obj\Debug\net9.0\Snake.pdb
 C:\Users\morte\Documents\GitHub\Snake\obj\Debug\net9.0\Snake.genruntimeconfig.cache
 C:\Users\morte\Documents\GitHub\Snake\obj\Debug\net9.0\ref\Snake.dll
+C:\Users\morte\Documents\GitHub\Snake\obj\Debug\net9.0\Snake.sourcelink.json
