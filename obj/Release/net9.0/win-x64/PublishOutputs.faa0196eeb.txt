@@ -1,0 +1,3 @@
+C:\Users\morte\Documents\GitHub\Snake\bin\Release\net9.0\win-x64\publish\Snake.pdb
+C:\Users\morte\Documents\GitHub\Snake\bin\Release\net9.0\win-x64\publish\raylib.dll
+C:\Users\morte\Documents\GitHub\Snake\bin\Release\net9.0\win-x64\publish\Snake.exe
