@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HxQJYAY6Mqw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\morte\\Documents\\GitHub\\Snake\\Snake.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\morte\\.nuget\\packages\\raylib-cs\\7.0.1\\raylib-cs.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
